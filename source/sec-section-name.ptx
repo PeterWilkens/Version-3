@@ -5,7 +5,8 @@
 
   <p> Schematic of right and left keyboard arrangements in a C system Accordion. </p>
  
-  <image source="assets/c_system_keyboard.pdf" width="100%"/>
- 
+  <image source="assets/c_system_keyboard_svg" width="60%"/>
+    <shortdescription>Shows diagramatic layout of right and left keyboard.</shortdescription>
+  
  
 </section>
